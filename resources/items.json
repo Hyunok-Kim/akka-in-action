@@ -1,0 +1,14 @@
+{
+  "items" : [
+    {
+      "productId" : "Apple Mouse",
+      "number" : 1,
+      "unitPrice" : 99.99
+    },
+    {
+      "productId" : "Apple Keyboard",
+      "number" : 1,
+      "unitPrice" : 79.99
+    }
+  ]
+}
